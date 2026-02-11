@@ -1,0 +1,55 @@
+.speech {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.song {
+    font-family: sans-serif, Helvetica, Arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.direction {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: rgb(157, 228, 169);
+}
+
+.direction:hover {
+    background-color: #42a58b;
+    color: rgb(4, 24, 114);
+}
+
+.name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+.mrsp {
+    color: #1a5276;   
+}
+
+.const {
+    color: #7d3c98;   
+}
+
+.drd {
+    color: #1e8449;   
+}
+
+.chorus {
+    color: #b7770d;   
+}
+
+.ladies {
+    color: #a93226;   
+}
+
+.villagers {
+    color: #6e6e6e;  
+}
