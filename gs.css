@@ -30,6 +30,12 @@
     font-weight: bold;
 }
 
+.name:hover {
+    text-shadow: 2px 2px 6px #42a58b;
+    border-bottom: 2px solid #42a58b;
+    cursor: default;
+}
+
 .mrsp {
     color: #1a5276;   
 }
